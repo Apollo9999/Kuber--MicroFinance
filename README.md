@@ -28,3 +28,8 @@ they accept the conditions
 Solution
 
 The emergence of Blockchain is a key to solve any intermediary-related problem. Lenders and Borrowers can communicate directly, all loan transactions are stored in immutable database. The comparision of non-Blockchain and Blockchain solution :
+
+  Blockchain advantages 
+	Small amount of money for gas fee
+	No need third party
+  Tranparent and secure transactions
