@@ -24,3 +24,7 @@ In developing countries the loan interest
 rates are very high.
 Entrepreneurs cannot get loans even if
 they accept the conditions
+
+Solution
+
+The emergence of Blockchain is a key to solve any intermediary-related problem. Lenders and Borrowers can communicate directly, all loan transactions are stored in immutable database. The comparision of non-Blockchain and Blockchain solution :
